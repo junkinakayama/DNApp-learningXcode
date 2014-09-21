@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D1E1157-CF01-431F-A3C4-400D0EC3575E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DNApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C2F65B2B-4922-4197-A39F-0D4DA3FAA79B</key>
+		<string>https://github.com/MengTo/DNApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DNApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C2F65B2B-4922-4197-A39F-0D4DA3FAA79B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MengTo/DNApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C2F65B2B-4922-4197-A39F-0D4DA3FAA79B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2F65B2B-4922-4197-A39F-0D4DA3FAA79B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DNApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
