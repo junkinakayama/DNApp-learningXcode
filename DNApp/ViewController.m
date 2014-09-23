@@ -19,6 +19,7 @@
 @property (weak, nonatomic) IBOutlet UIImageView *passwordImageView;
 @property (strong, nonatomic) NSDictionary *data;
 @property (weak, nonatomic) IBOutlet UIView *loadingView;
+@property (weak, nonatomic) IBOutlet UIActivityIndicatorView *loadingIndicator;
 
 @end
 

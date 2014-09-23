@@ -18,18 +18,26 @@ PODS:
   - AFNetworking/UIKit (2.0.3):
     - AFNetworking/NSURLConnection
   - Canvas (0.1.2)
+  - NSDate+TimeAgo (1.0.3)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.1)
   - SOCKit (1.1)
   - TPKeyboardAvoiding (1.2.4)
 
 DEPENDENCIES:
   - AFNetworking (~> 2.0.2)
   - Canvas
+  - NSDate+TimeAgo (~> 1.0.2)
+  - SDWebImage (~> 3.5)
   - SOCKit (~> 1.1)
   - TPKeyboardAvoiding
 
 SPEC CHECKSUMS:
   AFNetworking: a4d0e9a64de9242986620dafd1b3cee3b413ac5c
   Canvas: ae2faca05a15c4d6659fb3ae5e2a14817df4449a
+  NSDate+TimeAgo: f3533e0198fab05b716368b19f8c2185d53d6f3b
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
   SOCKit: d8d0dd3688ae1026c12367570da8fa8e1a6980fb
   TPKeyboardAvoiding: 925e1e1912597d1a4956697eec3bd9656552153c
 

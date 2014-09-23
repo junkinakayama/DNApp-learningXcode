@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		75A9CF5919D1400B00B74598 /* HomeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 75A9CF5819D1400B00B74598 /* HomeTableViewController.m */; };
+		75A9CF5C19D141E800B74598 /* StoryTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 75A9CF5B19D141E800B74598 /* StoryTableViewCell.m */; };
 		75B8C38519CE7E650080CE13 /* DNAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B8C38419CE7E640080CE13 /* DNAPI.m */; };
 		883CAEF2E55A424497A0A1EE /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 262C123C48DD4DB280D4571C /* libPods.a */; };
 		965D7FE91908E15100609C8F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 965D7FE81908E15100609C8F /* Foundation.framework */; };
@@ -38,6 +40,10 @@
 
 /* Begin PBXFileReference section */
 		262C123C48DD4DB280D4571C /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		75A9CF5719D1400B00B74598 /* HomeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeTableViewController.h; sourceTree = "<group>"; };
+		75A9CF5819D1400B00B74598 /* HomeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeTableViewController.m; sourceTree = "<group>"; };
+		75A9CF5A19D141E800B74598 /* StoryTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryTableViewCell.h; sourceTree = "<group>"; };
+		75A9CF5B19D141E800B74598 /* StoryTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoryTableViewCell.m; sourceTree = "<group>"; };
 		75B8C38319CE7E640080CE13 /* DNAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DNAPI.h; sourceTree = "<group>"; };
 		75B8C38419CE7E640080CE13 /* DNAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DNAPI.m; sourceTree = "<group>"; };
 		965D7FE51908E15100609C8F /* DNApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DNApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -133,6 +139,10 @@
 				965D80011908E15100609C8F /* ViewController.m */,
 				965D80031908E15100609C8F /* Images.xcassets */,
 				965D7FEF1908E15100609C8F /* Supporting Files */,
+				75A9CF5719D1400B00B74598 /* HomeTableViewController.h */,
+				75A9CF5819D1400B00B74598 /* HomeTableViewController.m */,
+				75A9CF5A19D141E800B74598 /* StoryTableViewCell.h */,
+				75A9CF5B19D141E800B74598 /* StoryTableViewCell.m */,
 			);
 			path = DNApp;
 			sourceTree = "<group>";
@@ -300,6 +310,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				965D80021908E15100609C8F /* ViewController.m in Sources */,
+				75A9CF5C19D141E800B74598 /* StoryTableViewCell.m in Sources */,
+				75A9CF5919D1400B00B74598 /* HomeTableViewController.m in Sources */,
 				965D7FF91908E15100609C8F /* AppDelegate.m in Sources */,
 				75B8C38519CE7E650080CE13 /* DNAPI.m in Sources */,
 				965D7FF51908E15100609C8F /* main.m in Sources */,
